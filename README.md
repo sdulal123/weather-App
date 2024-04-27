@@ -1,7 +1,12 @@
-<h1>Weather App GUI</h1>
+<h1>Weather App</h1>
+
 <h2>Introduction</h2>
 <p>
-    The Weather App is a Java-based application that provides users with real-time weather information by fetching weather data from an external API and displays it in a Graphical User Interface (GUI).
+    The Weather App is a Java-based application that provides user with real-time weather information by fetching weather data from an external API and displays it in a Graphical User Interface (GUI).
+</p>
+
+<p align="center">
+    <img src="https://github.com/sdulal123/weather-App/assets/86375908/1045700a-6ed6-4f74-a19a-48cb6210dd6e">
 </p>
 
 <h2>Technologies Used</h2>
@@ -15,7 +20,6 @@
 </ul>
 
 <h2>How to use it</h2>
-
 <p>
     Simply run the AppLauncher class. It serves as the entry point for the Weather App. It initializes the GUI and displays the main application window.
 </p>
