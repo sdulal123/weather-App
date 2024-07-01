@@ -39,4 +39,4 @@ The Weather App is a Java-based application that provides user with real-time we
 
 ## <a name="to-do"> To-do </a>
 
-- [ ] To Fix: Amp up GUI with modern intuitive design
+- [ ] Amp up GUI with modern intuitive design
