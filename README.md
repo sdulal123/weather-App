@@ -13,7 +13,6 @@
 2. [Tech Stacks](#tech-stacks)
 3. [Quick Start](#quick-start)
 4. [Features](#features)
-5. [To-do](#to-do)
 
 ## <a name="introduction"> Introduction </a>
 
@@ -36,7 +35,8 @@ The Weather App is a Java-based application that provides user with real-time we
 
 **Core**: Users can enter a location to get weather details like temperature, condition, humidity, and wind speed.
 
-
+<!-- 
+5. [To-do](#to-do)
 ## <a name="to-do"> To-do </a>
-
 - [ ] Amp up GUI with modern intuitive design
+-->
